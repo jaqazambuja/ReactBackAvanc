@@ -2,6 +2,7 @@ import Button from './components/Button'
 //import fundo from  './img/fundo.png'
 import styles from './index.module.css'
 
+//Renderizei no servidor a função HomePage
 function HomePage() {
     return (
 

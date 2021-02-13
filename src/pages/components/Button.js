@@ -1,4 +1,4 @@
-//renderizando com react no lado do servidor
+//renderizando com react no lado do servidor a function Button
 
 import styles from './Button.module.css'
 
